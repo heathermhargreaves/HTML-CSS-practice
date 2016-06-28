@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  background: #ccc;
+}
+
+.top-section {
+  background: #ccc;
+  height: 30vh;
+  width: 100%;
+}
+
+.HAM{
+  background: black;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+.CTA {
+  background: black;
+  width: 40%;
+  height: 40px;
+  border-radius: 40px;
+  text-align: center;
+}
+
+.item {
+  width: 50%;
+  height: 200px;
+  background: darkgray;
+  float: left;
+  display: inline-block;
+}
+
+.item:nth-child(2) {
+  background: lightblue;
+}
+
+.item:nth-child(3) {
+  background: lightblue;
+
+}
