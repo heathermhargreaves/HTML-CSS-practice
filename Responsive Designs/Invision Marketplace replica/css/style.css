@@ -1,0 +1,81 @@
+
+.top-container {
+  display: flex;
+  justify-content: center;
+    height: 100vh;
+    background-image: url("https://s3.amazonaws.com/www-assets.invisionapp.com/marketplace/assets/mp-hero-06.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+svg {
+  margin: 40vh;
+}
+
+.shirts {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.shirt {
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.shirt img {
+  width: 90%;
+
+}
+
+.shirt-large {
+  width: 500px;
+}
+
+shirts:nth-child(3,6) {
+
+}
+
+
+/*
+.top-nav {
+  height: 30vh;
+  width: 100%;
+  margin: 2%;
+
+
+}
+
+.top-nav ul {
+  display: flex;
+  float: right;
+}
+
+.top-nav ul li {
+  color: white;
+  padding: 15px 32px;
+  font-family: 'Open Sans';
+  font-size: 8px;
+
+}
+
+.cart {
+  font-family: "Open Sans";
+  background-color: Transparent;
+  border-color: white;
+  border-radius: 2px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 8px;
+}
+
+.logo{
+  display: flex;
+}
+*/
